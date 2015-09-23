@@ -33,6 +33,9 @@ Impallari at impallari@gmail.com
 
 ChangeLog
 
+23 Sept 2015  (Victor Lourng) RalewayW Family v3.0
+- RalewayW is a variant of Raleway that removes the distinctive insecting lines from the 'W' and 'w' glyphs
+
 24 Sept 2013  (Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida) Raleway Family v3.0
 - Added Cyrillic to the 9 Roman Weights
 
