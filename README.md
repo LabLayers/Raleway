@@ -1,7 +1,7 @@
 Raleway Fonts
 ====================
 
-RalewayW is a variant of Raleway that removes the distinctive insecting lines from the 'W' and 'w' glyphs. Original font can be found here: github.com/impallari/Raleway
+RalewayW is a variant of Raleway that removes the distinctive insecting lines from the 'W' and 'w' glyphs. Original font can be found here: https://github.com/impallari/Raleway
 
 Raleway is an elegant sans-serif typeface family.
 
